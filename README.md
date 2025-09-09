@@ -21,5 +21,5 @@ This project is a Machine Learning-based web application built using **Streamlit
 
 1. **Clone the repository**  
    ```bash
-   git clone 
+   git clone https://github.com/drupaddeepak/Teleco-Churn-Analysis.git
    cd telecom-churn-prediction
