@@ -1,4 +1,4 @@
-# Customer Churn Prediction App
+# Telcom Churn Analysis App
 
 ## Project Overview
 This project is a Machine Learning-based web application built using **Streamlit** that predicts customer churn for a telecom company. The model predicts whether a customer is likely to churn based on their input features.
